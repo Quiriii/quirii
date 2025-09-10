@@ -1,0 +1,242 @@
+[
+  {
+    "Date": 1,
+    "Day": "Monday",
+    "Breakfast": "Chole Bhature 2 Pcs Medium Size, Veg Pongal, Groundnut Chutney, Mint Chutney, Toasted Bread + Butter + Jam, Milk, Tea, Coffee Powder, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Phulka, Green Peas Pulav, White Rice, Chikkudukaya Poriyal, Nizami Veg, Andhra Style Muddha Pappu + Avakaya, Rasam, Thick Curd, Papad, Fresh Coriander Tomato Chutney, Ghee + Podi, Gulab Jamun",
+    "Snacks": "Masala Sweet Corn, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Onions, Roti, White Rice, Paneer Butter Masala/Chicken Butter Masala, Dal Tadka, Tomato Rasam, Musk Melon, Milk, Coffee Powder"
+  },
+  {
+    "Date": 2,
+    "Day": "Tuesday",
+    "Breakfast": "Idli, Methu Vada (2 Pcs Standard Size), Sambar, Dal Chutney, Brown Bread + Butter + Jam, Coffee Powder, Tea, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Chapathi, Coconut Rice, White Rice, Carrot Beans Poriyal, Rajma Masala, Amaranthus Dal (Thotakura Pappu), Sambar, Thick Curd, Ravva Vadiyalu, Vankaya (Brinjal) Chutney, Ghee + Podi",
+    "Snacks": "Stuffed Veg Roll (2 Pcs Std Size), Sauce, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Noodles, Tomato Sauce, Cabbage Deep Fry (65 Style), Beerakaya Dal, Rasam, Lemonade with Sabja Seeds, Lemon Pickle, Grapes, Milk, Coffee Powder"
+  },
+  {
+    "Date": 3,
+    "Day": "Wednesday",
+    "Breakfast": "Masala Dosa 2Pcs Standard Size, Vada Pav, Coconut chutney, White Bread + Butter + Jam, Tea, Coffee Powder, Milk, Masala Omlet, Sprouts (1 cup)",
+    "Lunch": "Onions & Cucumber Salad, Roti, Bhagara rice, White Rice, Andhra Style Chicken Fry, Paneer Tikka, Dal Makhani, Rasam, Thick Curd, Wheel Fryums, Gongura Chutney, Ghee + Podi, Jilebi",
+    "Snacks": "Masala Puri, Sauce, Hot Badam Milk",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Pasta, Tomato Sauce, Lauki Channa Masala, Tomato Dal, Sambar, Butter Milk, Lemon Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 4,
+    "Day": "Thursday",
+    "Breakfast": "Mysore Bonda (3 Pcs), Carrot Idly, Mint-Coriander-Coconut chutney, Sambar, Toasted Bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Poach, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Chapathi, Tomato Rice, White Rice, Brinjal Fry, Malai Kofta, Dosakaya Pappu, Majjiga Charu, Thick Curd, Papad, Beerakaya Chutney, Ghee + Podi",
+    "Snacks": "Veg Cutlet (2 Pcs Std Size), Green Chutney, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Carrot Rice, Bhindi Do Pyaja (Dry), Moong Dal Tadka, Sambar, Lemonade with Sabja Seeds, Lemon Pickle, Banana, Milk, Coffee Powder"
+  },
+  {
+    "Date": 5,
+    "Day": "Friday",
+    "Breakfast": "Mix Veg Uthappam 2 Pcs Medium Size, Poha, Coconut Chutney, Sambar, Brown bread + Butter + Jam, Tea, Coffee Powder, Milk, Boiled egg, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Roti, Veg pulao, White Rice, Raw Banana Fry, Soya Chunks Curry (Dhaba Style), Pesara Pappu, Beetroot Rasam, Thick Curd, Fryums, Dondakaya Chutney, Ghee + Podi, Gajar Ka Halwa",
+    "Snacks": "Kabuli Chana Pakora, Mint Chutney, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Onions, Aloo Methi paratha 2pcs standard size, White Rice, Chetinad Chicken Curry / Panner Chingari, Pesara Pappu, Rasam, Butter Milk, Lemon Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 6,
+    "Day": "Saturday",
+    "Breakfast": "Set Dosa 2 Pcs, Sambar Idly, Besan Mix Veg Chutney, White Bread + Butter + Jam, Tea, Coffee Powder, Milk, Masala Omlet, Sprouts (1 cup)",
+    "Lunch": "Boiled Chana with Onion & Tomato, Chapathi, Pudina Rice, White Rice, Aloo 65, Beerakaya Senagapappu Curry (Ridge Gourd), Palak Dal, Sambar, Thick Curd, Fryums, Tomato Chukka Kura Chutney, Ghee + Podi",
+    "Snacks": "Onion Pakoda/Mirchi Bajji 2 PCs (Alternative Week), Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulkha, White Rice, Jeera Rice, Mixed Veg curry, Dal Fry, Sambar, Lemonade with Sabja Seeds, Lemon Pickle, Pine Apple, Milk, Coffee Powder"
+  },
+  {
+    "Date": 7,
+    "Day": "Sunday",
+    "Breakfast": "Aloo Paratha (2 Pcs medium size), Shavige Bath, Mango Pickle, Groundnut Chutney, Curd, Brown Bread + Butter + Jam, Coffee Powder, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Onion & Cucumber Salad, Phulka, Chicken Dum Biryani (NV), Paneer (7)/Mushroom (21) Dum Vegetable Biryani (VEG), White Rice, Gravy (Chicken GRAVY (NV), Hyderabadi Mirchi Ka Salan (VEG), Curd Raitha, Punjabi Dal Fry, Rasam, Thick Curd, Nannari Sharabath, Papad, Dosakaya Chutney, Ghee + Podi, Ice Cream Bar or Cup Ice Cream",
+    "Snacks": "Pani Poori, Onions, Lemon Tulsi/Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Onion Uttappam, Groundnut Chutney, Dal Makhani, Sambar, Lemon Pickle, Papaya Fruit, Milk, Coffee Powder"
+  },
+  {
+    "Date": 8,
+    "Day": "Monday",
+    "Breakfast": "Plain Dosa 2 nos Thin, Moong Dal Vada (2 Pcs Standard Size), Coconut Chutney, Sambar, Toasted bread + Butter + Jam, Tea, Coffee Powder, Milk, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Chapathi, Pulihora, White Rice, Dondakaya Fry, Aloo Bhindi Masala, Andhra Style Muddha Pappu + Avakaya, Andhra Style Pachi Pulusu, Thick Curd, Fryums, Fresh Coriander Tomato Chutney, Ghee + Podi, Gulab Jamun",
+    "Snacks": "Dry Maggi, Sauce, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Onions, Roti, White Rice, Kaju Paneer/ Mughalai Chicken, Khatti Dal, Tomato Rasam, Butter Milk, Lemon Pickle, Musk Melon, Milk, Coffee Powder"
+  },
+  {
+    "Date": 9,
+    "Day": "Tuesday",
+    "Breakfast": "Poori 3 Pcs Standard Size, Rava Veg Kichidi, Besan Mix Veg Chutney, White bread + Butter + Jam, Tea, Coffee Powder, Milk, Omlet, Sprouts (1 cup)",
+    "Lunch": "Salad, Beetroot & Cucumber, Roti, Bisbeli Bath, White Rice, Jeera Aloo Fry, Rajma Masala, Lasooni dal tadka, Dahi Vada, Lemonade with Sabja Seeds, Potato Chips, Vankaya (Brinjal) Chutney, Ghee + Podi",
+    "Snacks": "Masala Vada 2Pcs Std Size, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Manchurian, Tomato Sauce, Mixed Veg Fry (Dry), Dal Tadka, Rasam, Thick Curd, Lemon Pickle, Banana, Milk, Coffee Powder"
+  },
+  {
+    "Date": 10,
+    "Day": "Wednesday",
+    "Breakfast": "Multigrain Dosa 2Pcs Standard Size, Poha, Groundnut Chutney, Sambar, Brown bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Poach, Sprouts (1 cup)",
+    "Lunch": "Onions & Cucumber Salad, Chapathi, Bhagara rice, White Rice, Andhra Style Chicken Fry/Paneer Pepper Masala, Nizami veg, Dosakaya Pappu, Rasam, Thick Curd, Gongura Chutney, Ghee + Podi, Boondi Laddu",
+    "Snacks": "Sweet Corn Alu Samosa (Big), Imli Chutney, Hot Badam Milk, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Schezwan Fried Rice, Tomato Sauce, Lauki Channa Masala, Tomato Dal, Sambar, Lemonade with Sabja Seeds, Mango Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 11,
+    "Day": "Thursday",
+    "Breakfast": "Ghobi Paratha 2 Pcs Standard Size, Rava upma, Coconut Chutney, Sambar, Toasted bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Phulka, Mix Veg Pulav, White Rice, Beetroot Chenna Poriyal, Bottle gourd or snake gourd kootu, Chukka Kura Pappu, Sambar, Thick Curd, Papad, Beerakaya Chutney, Ghee + Podi",
+    "Snacks": "Papdi Chat, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Lemon Rice/Tamarind Rice, Bhindi Do Pyaja (Dry), Moong Dal Tadka, Sambar, Butter Milk, Lemon Pickle, Papaya, Milk, Coffee Powder"
+  },
+  {
+    "Date": 12,
+    "Day": "Friday",
+    "Breakfast": "Mix Veg Uthappam (2Pcs) Standard Size, Veg Pongal, Dal chutney, Brown Bread + Butter + Jam, Tea, Coffee Powder, Milk, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Chapathi, Tomato Rice, White Rice, Carrot Fry, Kadai veg, Mango Dal, Beetroot Rasam, Thick Curd, Ravva Vadiyalu, Dondakaya Chutney, Ghee + Podi, Rava Kesari",
+    "Snacks": "Dahi Sev Puri, Onions, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Onions, Missi Roti, White Rice, Butter chicken / Panner Bhurji, Pesara Pappu, Rasam, Lemonade with Sabja Seeds, Mango Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 13,
+    "Day": "Saturday",
+    "Breakfast": "Adai Dosa 2 Pcs Standard Size, Tomato Upma, Vadacurry, Coconut Chutney, White bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Boiled Chana with Onion & Tomato, Ajwain Chapathi, Pudhina Rice, White Rice, Beans Poriyal, Aloo drumstick curry, Palak Dal, Sambar, Thick Curd, Fryums, Tomato Chukka Kura Chutney, Ghee + Podi",
+    "Snacks": "Pav Bhaji, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Jeera Rice, Mixed Veg Curry, Dal Tadka, Sambar, Butter Milk, Tomato Pickle, Pine Apple Fruit, Milk, Coffee Powder"
+  },
+  {
+    "Date": 14,
+    "Day": "Sunday",
+    "Breakfast": "Aloo Paratha (2 Pcs Standard Size), Shavige Bath, Groundnut Chutney, Mango Pickle, Thick Curd, Brown Bread + Butter + Jam, Coffee Powder.Milk, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Onions & Cucumber Salad, Chapathi, Chicken Dum Biryani (NV), Paneer (14) / Mushroom (28) Dum Vegetable Biryani (VEG), White Rice, Gravy (Chicken GRAVY (NV), Hyderabadi Mirchi Ka Salan (VEG), Curd Raitha, Punjabi Dal Fry, Rasam, Thick Curd, Nannari Sharabath, Papad, Dosakaya chutney, Ghee + Podi, Ice Cream Bar or Cup Ice Cream",
+    "Snacks": "Bread Pakora, Mint Chutney, Lemon Tulsi/Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Set Dosa, Groundnut Chutney, Masoor Dal Tadka, Sambar, Lemon Pickle, Papaya Fruit, Milk, Coffee Powder"
+  },
+  {
+    "Date": 15,
+    "Day": "Monday",
+    "Breakfast": "Chole Bhature 2 Pcs Medium Size, Veg Pongal, Groundnut Chutney, Mint Chutney, Toasted Bread + Butter + Jam, Milk, Tea, Coffee Powder, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Phulka, Green Peas Pulav, White Rice, Chikkudukaya Poriyal, Nizami Veg, Andhra Style Muddha Pappu + Avakaya, Rasam, Thick Curd, Papad, Fresh Coriander Tomato Chutney, Ghee + Podi, Gulab Jamun",
+    "Snacks": "Masala Sweet Corn, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Onions, Roti, White Rice, Paneer Butter Masala/Chicken Butter Masala, Dal Tadka, Tomato Rasam, Musk Melon, Milk, Coffee Powder"
+  },
+  {
+    "Date": 16,
+    "Day": "Tuesday",
+    "Breakfast": "Idli, Methu Vada (2 Pcs Standard Size), Sambar, Dal Chutney, Brown Bread + Butter + Jam, Coffee Powder, Tea, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Chapathi, Coconut Rice, White Rice, Carrot Beans Poriyal, Rajma Masala, Amaranthus Dal (Thotakura Pappu), Sambar, Thick Curd, Ravva Vadiyalu, Vankaya (Brinjal) Chutney, Ghee + Podi",
+    "Snacks": "Stuffed Veg Roll (2 Pcs Std Size), Sauce, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Noodles, Tomato Sauce, Cabbage Deep Fry (65 Style), Beerakaya Dal, Rasam, Lemonade with Sabja Seeds, Lemon Pickle, Grapes, Milk, Coffee Powder"
+  },
+  {
+    "Date": 17,
+    "Day": "Wednesday",
+    "Breakfast": "Masala Dosa 2Pcs Standard Size, Vada Pav, Coconut chutney, White Bread + Butter + Jam, Tea, Coffee Powder, Milk, Masala Omlet, Sprouts (1 cup)",
+    "Lunch": "Onions & Cucumber Salad, Roti, Bhagara rice, White Rice, Andhra Style Chicken Fry, Paneer Tikka, Dal Makhani, Rasam, Thick Curd, Wheel Fryums, Gongura Chutney, Ghee + Podi, Milk Peda",
+    "Snacks": "Masala Puri, Sauce, Hot Badam Milk",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Pasta, Tomato Sauce, Lauki Channa Masala, Tomato Dal, Sambar, Butter Milk, Lemon Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 18,
+    "Day": "Thursday",
+    "Breakfast": "Mysore Bonda (3 Pcs), Carrot Idly, Mint-Coriander-Coconut chutney, Sambar, Toasted Bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Poach, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Chapathi, Tomato Rice, White Rice, Brinjal Fry, Malai Kofta, Dosakaya Pappu, Majjiga Charu, Thick Curd, Papad, Beerakaya Chutney, Ghee + Podi",
+    "Snacks": "Veg Cutlet (2 Pcs Std Size), Green Chutney, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Carrot Rice, Bhindi Do Pyaja (Dry), Moong Dal Tadka, Sambar, Lemonade with Sabja Seeds, Lemon Pickle, Banana, Milk, Coffee Powder"
+  },
+  {
+    "Date": 19,
+    "Day": "Friday",
+    "Breakfast": "Mix Veg Uthappam 2 Pcs Medium Size, Poha, Coconut Chutney, Sambar, Brown bread + Butter + Jam, Tea, Coffee Powder, Milk, Boiled egg, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Roti, Veg pulao, White Rice, Raw Banana Fry, Soya Chunks Curry (Dhaba Style), Pesara Pappu, Beetroot Rasam, Thick Curd, Fryums, Dondakaya Chutney, Ghee + Podi, Carrot Halwa",
+    "Snacks": "Kabuli Chana Pakora, Mint Chutney, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Onions, Aloo Methi paratha 2pcs standard size, White Rice, Chetinad Chicken Curry / Panner Chingari, Pesara Pappu, Rasam, Butter Milk, Lemon Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 20,
+    "Day": "Saturday",
+    "Breakfast": "Set Dosa 2 Pcs, Sambar Idly, Besan Mix Veg Chutney, White Bread + Butter + Jam, Tea, Coffee Powder, Milk, Masala Omlet, Sprouts (1 cup)",
+    "Lunch": "Boiled Chana with Onion & Tomato, Chapathi, Pudina Rice, White Rice, Aloo 65, Beerakaya Senagapappu Curry (Ridge Gourd), Palak Dal, Sambar, Thick Curd, Fryums, Tomato Chukka Kura Chutney, Ghee + Podi",
+    "Snacks": "Onion Pakoda/Mirchi Bajji 2 PCs (Alternative Week), Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulkha, White Rice, Jeera Rice, Mixed Veg curry, Dal Fry, Sambar, Lemonade with Sabja Seeds, Lemon Pickle, Pine Apple, Milk, Coffee Powder"
+  },
+  {
+    "Date": 21,
+    "Day": "Sunday",
+    "Breakfast": "Aloo Paratha (2 Pcs medium size), Shavige Bath, Mango Pickle, Groundnut Chutney, Curd, Brown Bread + Butter + Jam, Coffee Powder, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Onion & Cucumber Salad, Phulka, Chicken Dum Biryani (NV), Mushroom (21) Dum Vegetable Biryani (VEG), White Rice, Gravy (Chicken GRAVY (NV), Hyderabadi Mirchi Ka Salan (VEG), Curd Raitha, Punjabi Dal Fry, Rasam, Thick Curd, Nannari Sharabath, Papad, Dosakaya Chutney, Ghee + Podi, Ice Cream Bar or Cup Ice Cream",
+    "Snacks": "Pani Poori, Onions, Lemon Tulsi/Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Onion Uttappam, Groundnut Chutney, Dal Makhani, Sambar, Lemon Pickle, Papaya Fruit, Milk, Coffee Powder"
+  },
+  {
+    "Date": 22,
+    "Day": "Monday",
+    "Breakfast": "Plain Dosa 2 nos Thin, Moong Dal Vada (2 Pcs Standard Size), Coconut Chutney, Sambar, Toasted bread + Butter + Jam, Tea, Coffee Powder, Milk, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Chapathi, Pulihora, White Rice, Dondakaya Fry, Aloo Bhindi Masala, Andhra Style Muddha Pappu + Avakaya, Andhra Style Pachi Pulusu, Thick Curd, Fryums, Fresh Coriander Tomato Chutney, Ghee + Podi, Rabri",
+    "Snacks": "Dry Maggi, Sauce, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Onions, Roti, White Rice, Kaju Paneer/ Mughalai Chicken, Khatti Dal, Tomato Rasam, Butter Milk, Lemon Pickle, Musk Melon, Milk, Coffee Powder"
+  },
+  {
+    "Date": 23,
+    "Day": "Tuesday",
+    "Breakfast": "Poori 3 Pcs Standard Size, Rava Veg Kichidi, Besan Mix Veg Chutney, White bread + Butter + Jam, Tea, Coffee Powder, Milk, Omlet, Sprouts (1 cup)",
+    "Lunch": "Salad, Beetroot & Cucumber, Roti, Bisbeli Bath, White Rice, Jeera Aloo Fry, Rajma Masala, Lasooni dal tadka, Dahi Vada, Lemonade with Sabja Seeds, Potato Chips, Vankaya (Brinjal) Chutney, Ghee + Podi",
+    "Snacks": "Masala Vada 2Pcs Std Size, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Manchurian, Tomato Sauce, Mixed Veg Fry (Dry), Dal Tadka, Rasam, Thick Curd, Lemon Pickle, Banana, Milk, Coffee Powder"
+  },
+  {
+    "Date": 24,
+    "Day": "Wednesday",
+    "Breakfast": "Multigrain Dosa 2Pcs Standard Size, Poha, Groundnut Chutney, Sambar, Brown bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Poach, Sprouts (1 cup)",
+    "Lunch": "Onions & Cucumber Salad, Chapathi, Bhagara rice, White Rice, Andhra Style Chicken Fry/Paneer Pepper Masala, Nizami veg, Dosakaya Pappu, Rasam, Thick Curd, Gongura Chutney, Ghee + Podi, Bandar Laddu",
+    "Snacks": "Sweet Corn Alu Samosa (Big), Imli Chutney, Hot Badam Milk, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Schezwan Fried Rice, Tomato Sauce, Lauki Channa Masala, Tomato Dal, Sambar, Lemonade with Sabja Seeds, Mango Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 25,
+    "Day": "Thursday",
+    "Breakfast": "Ghobi Paratha 2 Pcs Standard Size, Rava upma, Coconut Chutney, Sambar, Toasted bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Phulka, Mix Veg Pulav, White Rice, Beetroot Chenna Poriyal, Bottle gourd or snake gourd kootu, Chukka Kura Pappu, Sambar, Thick Curd, Papad, Beerakaya Chutney, Ghee + Podi",
+    "Snacks": "Papdi Chat, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Lemon Rice/Tamarind Rice, Bhindi Do Pyaja (Dry), Moong Dal Tadka, Sambar, Butter Milk, Lemon Pickle, Papaya, Milk, Coffee Powder"
+  },
+  {
+    "Date": 26,
+    "Day": "Friday",
+    "Breakfast": "Mix Veg Uthappam (2Pcs) Standard Size, Veg Pongal, Dal chutney, Brown Bread + Butter + Jam, Tea, Coffee Powder, Milk, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Chapathi, Tomato Rice, White Rice, Carrot Fry, Kadai veg, Mango Dal, Beetroot Rasam, Thick Curd, Ravva Vadiyalu, Dondakaya Chutney, Ghee + Podi, Sweet Pongal",
+    "Snacks": "Dahi Sev Puri, Onions, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Onions, Missi Roti, White Rice, Butter chicken / Panner Bhurji, Pesara Pappu, Rasam, Lemonade with Sabja Seeds, Mango Pickle, Fruit Custard (Minimum 4 Types Fruits), Milk, Coffee Powder"
+  },
+  {
+    "Date": 27,
+    "Day": "Saturday",
+    "Breakfast": "Adai Dosa 2 Pcs Standard Size, Tomato Upma, Vadacurry, Coconut Chutney, White bread + Butter + Jam, Tea, Coffee Powder, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Boiled Chana with Onion & Tomato, Ajwain Chapathi, Pudhina Rice, White Rice, Beans Poriyal, Aloo drumstick curry, Palak Dal, Sambar, Thick Curd, Fryums, Tomato Chukka Kura Chutney, Ghee + Podi",
+    "Snacks": "Pav Bhaji, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Jeera Rice, Mixed Veg Curry, Dal Tadka, Sambar, Butter Milk, Tomato Pickle, Pine Apple Fruit, Milk, Coffee Powder"
+  },
+  {
+    "Date": 28,
+    "Day": "Sunday",
+    "Breakfast": "Aloo Paratha (2 Pcs Standard Size), Shavige Bath, Groundnut Chutney, Mango Pickle, Thick Curd, Brown Bread + Butter + Jam, Coffee Powder.Milk, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Onions & Cucumber Salad, Chapathi, Chicken Dum Biryani (NV), Mushroom (28) Dum Vegetable Biryani (VEG), White Rice, Gravy (Chicken GRAVY (NV), Hyderabadi Mirchi Ka Salan (VEG), Curd Raitha, Punjabi Dal Fry, Rasam, Thick Curd, Nannari Sharabath, Papad, Dosakaya chutney, Ghee + Podi, Ice Cream Bar or Cup Ice Cream",
+    "Snacks": "Bread Pakora, Mint Chutney, Lemon Tulsi/Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Phulka, White Rice, Set Dosa, Groundnut Chutney, Masoor Dal Tadka, Sambar, Lemon Pickle, Papaya Fruit, Milk, Coffee Powder"
+  },
+  {
+    "Date": 29,
+    "Day": "Monday",
+    "Breakfast": "Chole Bhature 2 Pcs Medium Size, Veg Pongal, Groundnut Chutney, Mint Chutney, Toasted Bread + Butter + Jam, Milk, Tea, Coffee Powder, Boiled Egg, Sprouts (1 cup)",
+    "Lunch": "Carrot & Cucumber Salad, Phulka, Green Peas Pulav, White Rice, Chikkudukaya Poriyal, Nizami Veg, Andhra Style Muddha Pappu + Avakaya, Rasam, Thick Curd, Papad, Fresh Coriander Tomato Chutney, Ghee + Podi, Gulab Jamun",
+    "Snacks": "Masala Sweet Corn, Ginger Tea, Coffee",
+    "Dinner": "Cucumber Salad, Onions, Roti, White Rice, Paneer Butter Masala/Chicken Butter Masala, Dal Tadka, Tomato Rasam, Musk Melon, Milk, Coffee Powder"
+  },
+  {
+    "Date": 30,
+    "Day": "Tuesday",
+    "Breakfast": "Idli, Methu Vada (2 Pcs Standard Size), Sambar, Dal Chutney, Brown Bread + Butter + Jam, Coffee Powder, Tea, Milk, Egg Burji, Sprouts (1 cup)",
+    "Lunch": "Beetroot & Cucumber Salad, Chapathi, Coconut Rice, White Rice, Carrot Beans Poriyal, Rajma Masala, Amaranthus Dal (Thotakura Pappu), Sambar, Thick Curd, Ravva Vadiyalu, Vankaya (Brinjal) Chutney, Ghee + Podi",
+    "Snacks": "Stuffed Veg Roll (2 Pcs Std Size), Sauce, Ginger Tea, Coffee",
+    "Dinner": "Carrot Salad, Chapathi, White Rice, Veg Noodles, Tomato Sauce, Cabbage Deep Fry (65 Style), Beerakaya Dal, Rasam, Lemonade with Sabja Seeds, Lemon Pickle, Grapes, Milk, Coffee Powder"
+  }
+]
